@@ -55,9 +55,7 @@ Más de 900 horas de formación práctica y proyectos del mundo real en platafor
 ## 🌐 Idiomas
 
 *   **Español:** Nativo
-*   **Inglés:** Certificación EF SET C1 (Avanzado) - 62/100
-    *   *Comprensión Lectora: C2 (Proficiente)*
-    *   *Comprensión Auditiva: B2 (Intermedio Alto)*
+*   **Inglés:** Certificación EF SET C1 (Avanzado) cert.efset.org/es/ku2sKw
 
 ---
 
@@ -65,8 +63,8 @@ Más de 900 horas de formación práctica y proyectos del mundo real en platafor
 
 Estoy abierto a colaborar en proyectos desafiantes que combinen análisis de datos, IA y optimización de procesos. ¡No dudes en contactarme!
 
-*   **Email:** [Tu correo electrónico profesional]
-*   **LinkedIn:** [El enlace a tu perfil de LinkedIn]
+*   **Email:** yennysa1992@gmail.com
+*   **LinkedIn:** https://www.linkedin.com/in/yenny-sánchez-aguilar-665b26242)
 
 ---
 
