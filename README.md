@@ -16,6 +16,7 @@ Lidero la supervisión de proyectos tecnológicos y el desarrollo de estrategias
 *   **Análisis de Viabilidad:** Desarrollo planes de inversión y presupuestos detallados para la restauración y ejecución de proyectos, utilizando modelos de análisis para asegurar el retorno de la inversión.
 *   **Supervisión Tecnológica:** Evalúo y superviso el montaje de sistemas tecnológicos en instalaciones turísticas, garantizando su integración y funcionalidad.
 *   **Optimización de Procesos:** Aplico principios de análisis de datos para identificar áreas de mejora y optimizar la ejecución de proyectos.
+*   **Privacidad y Seguridad:** Implemento mecanismos de consulta segura con modelos ligeros de inteligencia artificial en local, asegurando la confidencialidad de información sensible en los proyectos de inversión.
 
 ### 🎓 Docencia e Investigación | Universidad de Holguín
 *Profesor Adjunto (Abr. 2023 – Actualidad)*
@@ -23,7 +24,8 @@ Lidero la supervisión de proyectos tecnológicos y el desarrollo de estrategias
 Fomento la próxima generación de profesionales, enseñando y aplicando herramientas de análisis de datos y programación en un entorno académico.
 
 *   **Docencia en Ciencia de Datos:** Imparto clases de **Matemática Financiera, Estadística Matemática y Econometría**, utilizando **Python** para análisis de datos y proyectos de investigación.
-*   **Innovación Educativa:** Investigo activamente sobre la **integración de Inteligencia Artificial en la enseñanza de la Contabilidad**, desarrollando planes de estudio y materiales educativos.
+*   **Innovación Educativa:** Investigo activamente sobre la **integración de Inteligencia Artificial en la enseñanza de la Educación Superior**, desarrollando planes de estudio y materiales educativos.
+*   **Inclusión Tecnológica:** Desarrollo pequeños asistentes virtuales ligeros que permiten aplicar IA en contextos de infraestructura limitada, promoviendo una educación más inclusiva y accesible.
 *   **Mentoría:** Guío a estudiantes en sus proyectos académicos y en el desarrollo de sus habilidades analíticas.
 
 ---
