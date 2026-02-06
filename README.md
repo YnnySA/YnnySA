@@ -34,12 +34,19 @@ Fomento la próxima generación de profesionales, enseñando y aplicando herrami
 
 Más de 900 horas de formación práctica y proyectos del mundo real en plataformas de primer nivel.
 
+*   **Foundation: Introduction to LangChain - Python** - LangChain Academy
+    *   *Certificación obtenida: Enero 2026*
+*   **Quickstart: LangChain Essentials - Python** - LangChain Academy
+    *   *Certificación obtenida: Diciembre 2025*
+*   **Curso de Iniciación al Desarrollo con IA** - BIG School
+    *   *Certificación obtenida: Octubre 2025*
 *   **Scientific Computing with Python** - freeCodeCamp
     *   *Certificación obtenida: Abril 2025*
 *   **College Algebra with Python** - freeCodeCamp
     *   *Certificación obtenida: Enero 2025*
 *   **Data Analysis with Python** - freeCodeCamp
     *   *Certificación obtenida: Septiembre 2024*
+
 
 ---
 
