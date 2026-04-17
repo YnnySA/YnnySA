@@ -11,7 +11,7 @@ Mi carrera se ha centrado en la aplicación práctica de la tecnología y el an�
 ### 💼 Analista de Datos & Desarrollador IA | AXIOM GROUP
 **Remoto***Analista de datos  (Mar. 2025 – Actualidad)*
 
-Desarrollo de soluciones de ingeniería de datos e inteligencia artificial aplicadas al negocio. Construcción de pipelines de datos industriales para limpieza, organización y procesamiento de información en tiempo real. Diseño de dashboards ejecutivos que permiten a la alta dirección tomar decisiones fundamentadas en una sola vista. Implementación de modelos predictivos para forecasting de ventas, optimización de inventario y análisis de inversiones. Desarrollo de agentes autónomos de auditoría financiera, Small Language Models (SLMs) privados entrenados con datos del cliente, y soluciones de automatización cognitiva para procesos legales y administrativos.
+Desarrollo de soluciones de ingeniería de datos e inteligencia artificial aplicadas al negocio. Construcción de pipelines de datos industriales para limpieza, organización y procesamiento de información en tiempo real. Diseño de dashboards ejecutivos que permiten a la alta dirección tomar decisiones fundamentadas en una sola vista. Implementación de modelos predictivos para forecasting de ventas, optimización de inventario y análisis de inversiones. Desarrollo de agentes autónomos de auditoría financiera, Large Language Models (LLMs) privados entrenados con datos del cliente, y soluciones de automatización cognitiva para procesos legales y administrativos.
 
 ### 🎓 Candidato a Doctor en Ingeniería | Universidad de Concepción
 *(Marz. 2026 - Actualidad*
