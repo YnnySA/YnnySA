@@ -7,18 +7,16 @@ Soy un **Ingeniero Mecánico Multidisciplinario** y **Docente** con una fuerte e
 ## 🚀 Experiencia Profesional Destacada
 
 Mi carrera se ha centrado en la aplicación práctica de la tecnología y el análisis en diversos sectores.
-### 🎓 Candidato a Doctor en Ingeniería | Universidad de Concepción
-**Becario ANID · Concepción, Chile**
-
-Programa de investigación orientado a la generación de conocimiento original e innovaciones de vanguardia en ingeniería. Desarrollo de tesis en materiales compuestos con fibras de vidrio recicladas, enfocada en comportamiento mecánico-vibracional y optimización multi-objetivo. Formación en metodologías de investigación, ciencia de datos, optimización de sistemas y diseño experimental. Competencias en gestión de proyectos de I+D+i y trabajo en equipos multidisciplinarios a nivel local e internacional.
-
----
 
 ### 💼 Analista de Datos & Desarrollador IA | AXIOM GROUP
-**Remoto**
+**Remoto***Analista de datos  (Mar. 2025 – Actualidad)*
 
 Desarrollo de soluciones de ingeniería de datos e inteligencia artificial aplicadas al negocio. Construcción de pipelines de datos industriales para limpieza, organización y procesamiento de información en tiempo real. Diseño de dashboards ejecutivos que permiten a la alta dirección tomar decisiones fundamentadas en una sola vista. Implementación de modelos predictivos para forecasting de ventas, optimización de inventario y análisis de inversiones. Desarrollo de agentes autónomos de auditoría financiera, Small Language Models (SLMs) privados entrenados con datos del cliente, y soluciones de automatización cognitiva para procesos legales y administrativos.
 
+### 🎓 Candidato a Doctor en Ingeniería | Universidad de Concepción
+*(Marz. 2026 - Actualidad*
+
+Programa de investigación orientado a la generación de conocimiento original e innovaciones de vanguardia en ingeniería. Desarrollo de tesis en materiales compuestos con fibras de vidrio recicladas, enfocada en comportamiento mecánico-vibracional y optimización multi-objetivo. Formación en metodologías de investigación, ciencia de datos, optimización de sistemas y diseño experimental. Competencias en gestión de proyectos de I+D+i y trabajo en equipos multidisciplinarios a nivel local e internacional.
 
 ### 📊 Análisis de Datos y Gestión de Proyectos | Almest
 *Especialista en Inversiones (Mar. 2019 – Feb. 2026)*
